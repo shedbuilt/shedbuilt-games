@@ -14,3 +14,7 @@
 	path = openxcom
 	url = https://github.com/shedbuilt/openxcom.git
 	branch = .
+[submodule "angband"]
+	path = angband
+	url = https://github.com/shedbuilt/angband.git
+	branch = .
