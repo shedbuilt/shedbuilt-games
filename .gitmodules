@@ -1,0 +1,16 @@
+[submodule "frotz"]
+	path = frotz
+	url = https://github.com/shedbuilt/frotz.git
+	branch = .
+[submodule "brogue"]
+	path = brogue
+	url = https://github.com/shedbuilt/brogue.git
+	branch = .
+[submodule "prboom-plus"]
+	path = prboom-plus
+	url = https://github.com/shedbuilt/prboom-plus.git
+	branch = .
+[submodule "openxcom"]
+	path = openxcom
+	url = https://github.com/shedbuilt/openxcom.git
+	branch = .
