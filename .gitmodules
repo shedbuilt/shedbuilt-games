@@ -26,3 +26,7 @@
 	path = retroarch
 	url = https://github.com/shedbuilt/retroarch.git
     branch = .
+[submodule "chocolate-doom"]
+	path = chocolate-doom
+	url = https://github.com/shedbuilt/chocolate-doom.git
+	branch = .
