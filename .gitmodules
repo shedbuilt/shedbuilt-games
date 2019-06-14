@@ -30,3 +30,7 @@
 	path = chocolate-doom
 	url = https://github.com/shedbuilt/chocolate-doom.git
 	branch = .
+[submodule "crispy-doom"]
+	path = crispy-doom
+	url = https://github.com/shedbuilt/crispy-doom.git
+	branch = .
